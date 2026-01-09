@@ -15,12 +15,16 @@ public class Main {
 
         System.out.print("Introduce un adjetivo: ");
         adjetivo1 = scanner.nextLine();
+        
         System.out.print("Introduce un sustantivo(animal): ");
         sustantivo1 = scanner.nextLine();
+        
         System.out.print("Introduce un adjetivo: ");
         adjetivo2 = scanner.nextLine();
+        
         System.out.print("Introduce un verbo: ");
         verbo1 = scanner.nextLine();
+        
         System.out.print("Introduce un adjetivo: ");
         adjetivo3 = scanner.nextLine();
 
