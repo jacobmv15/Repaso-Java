@@ -23,5 +23,7 @@ public class Main {
         } else {
             System.out.println("Opción inválida");
         }
+
+        scanner.close();
     }
 }
