@@ -1,0 +1,5 @@
+Reporte de ventas
+-----------------
+Producto: Pizza
+Precio: $10
+Cantidad: 3

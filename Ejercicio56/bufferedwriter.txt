@@ -1,0 +1,2 @@
+Texto usando BufferedWriter
+Mejor rendimiento con mucho texto
