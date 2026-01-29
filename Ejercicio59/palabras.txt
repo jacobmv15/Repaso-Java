@@ -1,0 +1,8 @@
+manzana
+naranja
+platano
+coco
+piña
+uva
+lima
+limon
