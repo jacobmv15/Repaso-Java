@@ -1,6 +1,6 @@
-# Repaso de Java ☕
+# Repaso de Java
 
-Repositorio de repaso de Java siguiendo un curso de YouTube.
+Repositorio de repaso de Java siguiendo un curso de YouTube. (https://youtu.be/xTtL8E4LzTQ?si=x7W5UNeTZ87PdZTq)
 
 ## Estructura
 
@@ -48,23 +48,31 @@ Cada ejercicio está organizado en su propia carpeta con su paquete Java corresp
 * Ejercicio 38: Uso de constructores
 * Ejercicio 39: Sobrecarga de constructores
 * Ejercicio 40: Arrays de objetos
-* Ejercicio 41:
-* Ejercicio 42:
-* Ejercicio 43:
-* Ejercicio 44:
-* Ejercicio 45:
-* Ejercicio 46:
-* Ejercicio 47:
-* Ejercicio 48:
-* Ejercicio 49:
-* Ejercicio 50:
-* Ejercicio 51:
-* Ejercicio 52:
-* Ejercicio 53:
-* Ejercicio 54:
-* Ejercicio 55:
-* Ejercicio 56:
-* Ejercicio 57:
-* Ejercicio 58:
-* Ejercicio 59:
-* Ejercicio 60:
+* Ejercicio 41: Uso de static
+* Ejercicio 42: Uso de herencia
+* Ejercicio 43: Uso de super
+* Ejercicio 44: Override de métodos
+* Ejercicio 45: Método toString
+* Ejercicio 46: Clases abstractas y métodos abstractos
+* Ejercicio 47: Uso de interfaces
+* Ejercicio 48: Polimorfismo
+* Ejercicio 49: Polimorfismo en runtime
+* Ejercicio 50: Uso de getters y setters
+* Ejercicio 51: Agregación de objetos
+* Ejercicio 52: Composición de objetos
+* Ejercicio 53: Uso de Wrapper Classes y distintos métodos
+* Ejercicio 54: Uso de ArrayList
+* Ejercicio 55: Manejo de excepciones
+* Ejercicio 56: Escritura de archivos
+* Ejercicio 57: Lectura de archivos
+* Ejercicio 58: Reproducción de audio
+* Ejercicio 59: Juego del ahorcado
+* Ejercicio 60: Fechas y horas en Java
+* Ejercicio 61:
+* Ejercicio 62:
+* Ejercicio 63:
+* Ejercicio 64:
+* Ejercicio 65:
+* Ejercicio 66:
+* Ejercicio 67:
+* Ejercicio 68:
